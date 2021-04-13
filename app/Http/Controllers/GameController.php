@@ -66,7 +66,7 @@
                 // to set the a winner;
                 
                 return response()->json([
-                   'GameId' => $game->id, 'name' => $game->name,
+                   'GameId' => $game->id
                 ], 200);
             } catch (\Exception $exception) {
                 return response()->json(['error' => $exception->getMessage()], 505);
