@@ -1,5 +1,5 @@
 
-## Acerca de kat-app
+## About kat-app
 
 Para ejecutar  el sistema se debe tener instalado docker,bash el usuario debe estar autorizado para 
 poder ejecutar docker, ademas se debe tener Composer , php todo lo  que se exije en la 
